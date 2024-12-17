@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RepeatAuthProj.props" />
+</Project>
